@@ -14,11 +14,17 @@ Veriler API üzerinden dinamik olarak çekilmektedir.
 
 ---
 
-## 🚀 Çalıştırma Adımları
+```markdown id="good2"
+### Çalıştırma Adımları
 
-Projeyi çalıştırmak için aşağıdaki adımları izleyiniz:
+1. Projeyi klonlayın  
+git clone https://github.com/humaczeynep/e-commerce-mobile-app.git  
 
-git clone https://github.com/humaczeynep/e-commerce-mobile-app.git
-cd e-commerce-mobile-app
-flutter pub get
+2. Proje dizinine gidin  
+cd e-commerce-mobile-app  
+
+3. Bağımlılıkları yükleyin  
+flutter pub get  
+
+4. Uygulamayı çalıştırın  
 flutter run
