@@ -15,7 +15,7 @@ Veriler API üzerinden dinamik olarak çekilmektedir.
 ---
 
 ```markdown id="good2"
-## 🚀 Çalıştırma Adımları
+### 🚀 Çalıştırma Adımları
 
 1. Projeyi klonlayın  
 git clone https://github.com/humaczeynep/e-commerce-mobile-app.git  
